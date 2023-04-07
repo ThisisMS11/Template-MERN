@@ -15,10 +15,12 @@
     "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "email-validator": "^2.0.4",
     "express": "^4.18.2",
     "json-web-token": "^3.2.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
+    "nodemailer": "^6.9.1",
     "nodemon": "^2.0.22"
   }
 }
